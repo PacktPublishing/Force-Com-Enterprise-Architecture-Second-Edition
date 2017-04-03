@@ -2,7 +2,8 @@
 This is the code repository for [Force.com Enterprise Architecture - Second Edition](https://www.packtpub.com/application-development/forcecom-enterprise-architecture-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781786463685), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 This book will teach you how to architect and support enduring applications for enterprise clients with Salesforce by exploring how to identify architecture needs and design solutions based on industry standard patterns. There are several ways to build solutions on Force.com, and this book will guide you through a logical path and show you the steps and considerations required to build packaged solutions from start to finish.
-##Instructions and Navigation
+
+## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
 ### Deploying the source code
